@@ -29,7 +29,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     '@nuxtjs/tailwindcss',
-    ['@storyblok/nuxt-2/module', { accessToken: 'OurklwV5XsDJTIE1NJaD2wtt' }],
+    ['@storyblok/nuxt-2/module', { accessToken: 'H3gEuYQCJkT9ylJhZ8IkNAtt' }],
     '@nuxtjs/composition-api/module',
   ],
 
